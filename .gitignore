@@ -1,0 +1,23 @@
+# Compiled outputs
+*.pdf
+*.png
+*.svg
+/dist/
+/build/
+
+# Temporary and cache files
+*.tmp
+*.bak
+*.swp
+*~
+.env
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini

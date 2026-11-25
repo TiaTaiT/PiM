@@ -1,0 +1,23 @@
+{
+  "document_code": "XXXXX.РП.01.000.0-ТСО-ПИМ",
+  "document_title": "Программа и методика испытаний комплекса ИТСО по объекту «Центральная база» в составе стройки",
+  "construction_name": "«Комплекс технических средств охраны объектов Нагорного УТТиСТ, расположенных на луне»",
+  "construction_code": "",
+  "operator": {
+    "organization": "",
+    "position": "",
+    "name": ""
+  },
+  "customer": {
+    "organization": "",
+    "position": "",
+    "name": ""
+  },
+  "contractor": {
+    "organization": "ООО «ШарашМонтаж»",
+    "position": "Начальник управления\nпусконаладочных работ",
+    "name": "X.Y. Zzzzzz"
+  },
+  "city": "Новые Васюки",
+  "year": "2026"
+}
